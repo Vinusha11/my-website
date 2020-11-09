@@ -5,3 +5,6 @@ Updates made on master branch readme file before rebase
 
 ## Purpose
 This file is just readme file.
+
+## Create Conflict
+Text for conflict creation
