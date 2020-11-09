@@ -12,3 +12,5 @@ This text creates conflict
 ## Create Conflict
 Text for conflict creation
 
+## New sectiona dded for tags
+Tag text information
