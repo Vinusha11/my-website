@@ -8,3 +8,7 @@ This file is just readme file.
 
 ## Local Changes
 This text creates conflict
+
+## Create Conflict
+Text for conflict creation
+
