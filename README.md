@@ -1,7 +1,6 @@
 # my-website
 New comment in the readme file
 
-Example comment on the example branch
+Updates made on master branch readme file before rebase
 
-Updated readme locally
 
