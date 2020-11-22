@@ -12,5 +12,9 @@ This text creates conflict
 ## Create Conflict
 Text for conflict creation
 
-## New sectiona dded for tags
+## New section added for tags
 Tag text information
+
+## Getting Started
+
+To get started with this project, just 'clone' this repository
